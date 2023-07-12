@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '546fa6fa42c94964915c10d93baf5ff8',
+  rootNotionPageId: 'c12791037581472fbc5bda10fba4344e',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '美人图集社',
-  domain: 'https://www.notion.so/546fa6fa42c94964915c10d93baf5ff8',
+  domain: 'https://www.notion.so/f561db54634b44dc946fb9b6d93d7393?v=c12791037581472fbc5bda10fba4344e',
   author: '卡密',
 
   // open graph metadata (optional)
@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   //twitter: 'transitive_bs',
   //github: 'transitive-bullshit',
-  linkedin: 'https://llking.xlog.app/',
+  //linkedin: 'https://llking.xlog.app/',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
